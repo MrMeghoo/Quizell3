@@ -20,6 +20,16 @@ Mental health is such an important part of our wellness as humans, but it often 
 
 -Users have the ability to create an account. 
 
+-User can interact with database and receive uplifting quotes.
+
+-Users can leave a message and contact info to connect.
+
+-This app has a mindfullness and breathworks section for relaxation.
+
+-Don't forget to check out that donation page and support
+
+-Stats for mental illness in the tech industry will be highlighted for educational purposes.
+
 
 ## Installation
 Packages installed:
