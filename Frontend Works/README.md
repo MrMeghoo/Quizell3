@@ -36,7 +36,8 @@ Packages installed:
 
 - **Zakai Meghoo-Peddie**
   - 
-  - GitHub: [Zakai Meghoo-Peddie](https://github.com/MrMeghoo)
+ ## Author
+![Zakai's Headshot](Images/headshot.jpg)
 
 
 ## Resources
@@ -100,3 +101,18 @@ https://metta-meditation.netlify.app/
 <a id="12">[12]</a> 
 https://github.com/rutikwankhade/Random-Quote
 https://randomquot.vercel.app/
+
+
+## Installation
+Packages installed:
+
+*nodemon*(Installs by running "npm i nodemon" into the terminal) follow this link for more instructions on install https://www.npmjs.com/package/nodemon
+
+*pg promise*(Installs by running "npm i pg-promise" into the terminal) follow this link for more instructions on install https://www.npmjs.com/package/pg-promise
+
+*winston*(Installs by running "npm i winston" into the terminal) follow this link for more instructions on install https://www.npmjs.com/package/winston
+
+*express* (Installs by running "npm i express" into the terminal)follow this link for more instructions on install https://www.npmjs.com/package/express
+
+*bcrypt* (Installs by running "npm i bcrypt" into the terminal) follow this link for more instructions on install https://www.npmjs.com/package/bcrypt
+
