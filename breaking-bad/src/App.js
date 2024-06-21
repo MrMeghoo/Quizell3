@@ -3,8 +3,7 @@ import Header from "./components/Navbar"
 import SearchBar from "./components/Searchbar"
 import CharacterList from "./components/Characterlist"
 import axios from "./components/api";
-import { Spinner } from "react-bootstrap";
-
+import Spinner from "./components/Spinner"
 function App() {
   const [items, setItems] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -27,6 +26,5 @@ function App() {
     </div>
   );
 }
-
 
 export default App;
