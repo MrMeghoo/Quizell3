@@ -6,7 +6,6 @@ const Characterinfo = ({ item }) => {
             <img src={item.img} alt="character" />
           </div>
           <div className="card-back">
-            {/* character Name */}
             <h1>{item.name}</h1>
             <ul>
               <li>
