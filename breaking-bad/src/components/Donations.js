@@ -1,6 +1,6 @@
 import React from 'react';
 
-const DonateButton = () => {
+const Donations = () => {
   const handleClick = () => {
     const stripeDonationURL = 'https://buy.stripe.com/test_aEUg1F1dk9Lw2yI9AA';
     window.open(stripeDonationURL, '_blank');
@@ -11,4 +11,4 @@ const DonateButton = () => {
   );
 };
 
-export default DonateButton;
+export default Donations;
